@@ -1,9 +1,0 @@
-Class Name: ChangeDirectory
-Parent class: Command
- 
-Responsibilities: 
-* Change current working directory to given directory
-
-Collaborators: 
-* FileSystem
-

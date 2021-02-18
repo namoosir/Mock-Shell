@@ -1,9 +1,0 @@
-Class name: Remove
-Parent class: Command
-Subclass: none
-
-Responsibilites:
-*Removes directory from filesystem as well as any childred of directory
-
-Collaborators:
-*FileSystem
